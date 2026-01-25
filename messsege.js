@@ -1,0 +1,1 @@
+export let say = "hi this is kanon";
